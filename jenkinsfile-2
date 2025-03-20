@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE_NAME = "dhiyakhatri/my-app"
         REGISTRY = "docker.io"
-        DOCKER_USER = "docker"          // Replace with your Docker Hub username
+        DOCKER_USER = "dhiyakhatri"          // Replace with your Docker Hub username
         DOCKER_PASS = "Dhiya#2005"        // Replace with your Docker Hub password
     }
 
